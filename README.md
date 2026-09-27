@@ -2,7 +2,7 @@
 
 > **OSYSTIC ENGINEERING CASE STUDY · PUBLIC SHOWCASE · SANITIZED · PORTFOLIO-SAFE**
 >
-> This repository contains **no client identity, no confidential Pine Script source, no private screenshots, no private conversations, no payment information, no credentials, and no proprietary delivery package**.
+> This repository contains **no client identity, no confidential Pine Script source, no private screenshots, no private conversations, no payment information, no credentials, and no proprietary delivery package**.\n\n![Architecture](assets/architecture.svg)
 
 ## Company showcase classification
 
@@ -130,3 +130,21 @@ This showcase does **not** claim:
 Only sanitized architecture, requirements patterns, validation methodology, public-safe outcomes and engineering lessons are published here. Confidential Pine source, client identity, private screenshots, conversations, commercial records and delivery artifacts are intentionally excluded.
 
 **OSYSTIC** · Engineering systems, automation, AI and trading technology.
+
+## OSYSTIC PACE evidence framework
+
+- **P - Problem and constraints:** reproduce a complex reference-driven chart workflow without access to proprietary source while preserving exact time, anchor, projection and visual semantics.
+- **A - Architecture and decisions:** New York time model, stateful multi-timeframe cycle engine, source-candle H/L tracking, bar-index breaker projection, hybrid yearly-history refinement and bounded chart-object lifecycle.
+- **C - Contribution and delivery:** OSYSTIC engineered, iteratively refined, tested and delivered the Pine Script v6 indicator through acceptance-driven QA.
+- **E - Evidence and outcomes:** compile/add-to-chart success, focused behavioral gates, MNQ/NQ/ES regression checks, final label-readability verification and client acceptance.
+
+## Governance and publication
+
+This repository follows the OSYSTIC sanitized public-showcase model.
+
+- Private engineering source remains separate.
+- Public history is independently sanitized.
+- Publication boundary: [docs/publication-record.md](docs/publication-record.md)
+- Ownership/reuse: [OWNERSHIP.md](OWNERSHIP.md)
+- Security/disclosure: [SECURITY.md](SECURITY.md)
+- Maintenance/withdrawal runbook: [docs/runbook.md](docs/runbook.md)
