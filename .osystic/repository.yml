@@ -1,0 +1,41 @@
+schema_version: 2
+repository_class: public-showcase
+visibility: public
+lifecycle: maintenance
+owner_team: engineering
+data_classification: public-sanitized
+
+project:
+  key: 90-minute-cycles-tradingview-indicator
+  name: 90-Minute Cycles TradingView Indicator
+  status: completed
+
+portfolio:
+  eligible: true
+  status: approved-public-showcase
+  publisher: OSYSTIC
+  presentation_standard: company-engineering-case-study
+
+website:
+  eligible: true
+  status: ready-for-review
+  canonical_slug: 90-minute-cycles-tradingview-indicator
+  auto_sync: true
+
+publication:
+  client_identity_public: false
+  confidential_content_removed: true
+  credentials_included: false
+  private_infrastructure_included: false
+  contract_or_payment_details_included: false
+  private_conversations_included: false
+
+source:
+  type: sanitized-client-delivery
+  source_code_included: false
+  confidential_source_linked: false
+
+delivery:
+  default_branch: main
+  ci_required: false
+  production_environment: false
