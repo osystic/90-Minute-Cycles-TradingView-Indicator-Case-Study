@@ -28,7 +28,7 @@
 <path class="line" d="M600 180 L240 230"/><path class="line" d="M600 180 L960 230"/>
 <path class="line" d="M240 350 L430 455"/><path class="line" d="M600 350 L600 435"/><path class="line" d="M960 350 L770 455"/>
 <rect class="box3" x="330" y="435" rx="16" width="540" height="120"/>
-<text x="600" y="475" text-anchor="middle" class="txt">Display & Object State</text>
+<text x="600" y="475" text-anchor="middle" class="txt">Display &amp; Object State</text>
 <text x="600" y="510" text-anchor="middle" class="small">boxes · lines · labels · bounded history</text>
 <text x="600" y="535" text-anchor="middle" class="small">label hierarchy + configurable readability</text>
 <path class="line" d="M600 555 L600 605"/>
